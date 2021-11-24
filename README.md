@@ -4,10 +4,13 @@ Eai Man & Woman!
 - 📫 Estou Aprendendo: React Native | Python | Mysql.
 - ⚡ Pode me chamar de "Salvatore"
 
+<div>
+ <img align="center" alt="Rafa-Csharp" height="200" width="250" src="https://tenor.com/view/safemoon-gif-shinobi-gif-22327595.gif">  
+</div>
+
 <div align="center">
   <a href="https://github.com/LuSalvatore">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lusalvatore&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusalvatore&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
